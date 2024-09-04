@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website Title Name</title>
+</head>
+<body>
+    <div class="container">
+        <h1> Heading Elements</h1>
+        <h1> heading 1 </h1>
+		<h2> heading 2 </h2>
+		<h3> heading 3 </h3>
+		<h4> heading 4 </h4>
+		<h5> heading 5 </h5>
+		<h6> heading 6 </h6>
+    </div>
+    <div>
+        <p> This is paragraph Tag </p>
+        <div> Division: Div is a block level element, adding new line and 100%width</div>
+        <span> Span: span is a inline element, content background space only </span>
+        <br/>
+        <hr/>
+        <button> Click me</button>
+        <br/>
+        <h1>
+            <marquee style = 'color:brown'> codegnan </marquee>
+        </h1>
+        <img src=".//codegnan image.jpg" alt="codegnan image">
+        <br/>
+        <a href="https://codegnan.com"> codegnan</a>
+        <br/> <br/>
+        <header> Header Semantic Element </header>
+        <section> Section semantic element </section>
+        <footer> Footer semantic element</footer>
+        <p> Lorem ipsum, &nbsp;&nbsp; dolor sit amet consectetur adipisicing elit. <br/> Aliquid ea eveniet laudantium nemo culpa molestiae, quod fugit sit. Quibusdam architecto beatae harum quo rerum libero deleniti natus provident exercitationem optio?</p>
+
+    </div>
+</body>
+</html>
